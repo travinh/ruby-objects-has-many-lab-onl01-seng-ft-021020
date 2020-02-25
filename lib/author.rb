@@ -28,6 +28,7 @@ class Author
     posts.each do |post_n|
       count += 1 
     end
+    count
   end
   
 end
